@@ -1,1 +1,2 @@
 This important text in friend 2[two]
+and thiis iss 
